@@ -1,0 +1,7 @@
+name: Zipliner
+version: ${project.version}
+main: com.telosium.zipliner.Zipliner
+api-version: 1.13
+authors: [Telosium]
+description: A zipline plugin for minecraft
+website: https://Telosium.com
